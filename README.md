@@ -1,1 +1,1 @@
-# File "code_example" contains an example of my code on Python
+# File "code_example.py" contains an example of my code on Python
